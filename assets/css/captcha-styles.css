@@ -1,0 +1,23 @@
+/*
+ * Captcha Styles - CSS for the captcha plugin.
+ */
+
+.captcha-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.captcha-label {
+  margin-right: 10px;
+}
+
+.captcha-value {
+  font-size: 14px;
+  margin-left: 10px;
+  color: red;
+}
+
+.captcha-input {
+  margin-top: 10px;
+}
