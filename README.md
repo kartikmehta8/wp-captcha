@@ -3,6 +3,7 @@
 
 ## Description
 ![Login](./assets/login.png)
+
 CAPTCHA for WordPress Login is a simple yet customizable plugin that adds a CAPTCHA to the WordPress login page. This plugin helps protect your site from automated login attempts by requiring users to solve a CAPTCHA challenge before logging in.
 
 ## Features
